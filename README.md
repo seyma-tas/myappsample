@@ -1,2 +1,1 @@
-# myappsample
-deneme
+
